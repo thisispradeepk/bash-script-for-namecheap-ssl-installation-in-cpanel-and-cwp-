@@ -1,0 +1,1 @@
+# bash-script-for-namecheap-ssl-installation-in-cpanel-and-cwp-
